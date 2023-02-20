@@ -25,23 +25,6 @@ Namespace Entry
                             ByVal elements As ElementSet) As Result Implements IExternalCommand.Execute
 
       Try
-
-        ' Version
-        If Not commandData.Application.Application.VersionName.Contains("2021") Then
-
-          ' Failure
-          Using td As New TaskDialog("Cannot Continue")
-            With td
-              .TitleAutoPrefix = False
-              .MainInstruction = "Incompatible Version of Revit"
-              .MainContent = "This Add-In was built, please contact CASE for assistance."
-              .Show()
-            End With
-          End Using
-          Return Result.Cancelled
-
-        End If
-
         ' Settings
         Dim m_s As New clsSettings(commandData, elements)
         m_s.GetFamilySymbol()
