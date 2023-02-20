@@ -6,16 +6,13 @@
     <SharedGUID>f36ab59e-0d72-43b8-9688-84c0daca1c82</SharedGUID>
   </PropertyGroup>
   <PropertyGroup Label="Configuration">
-    <Import_RootNamespace>Case.DoorMarkRenumber.SharedProject</Import_RootNamespace>
+    <Import_RootNamespace>Case.Export.Families.SharedProject</Import_RootNamespace>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="$(MSBuildThisFileDirectory)Data\clsDoors.vb" />
-    <Compile Include="$(MSBuildThisFileDirectory)Data\clsPropertyComparer.vb" />
     <Compile Include="$(MSBuildThisFileDirectory)Data\clsSettings.vb" />
-    <Compile Include="$(MSBuildThisFileDirectory)Data\clsSortableBindingList.vb" />
     <Compile Include="$(MSBuildThisFileDirectory)Entry\CmdMain.vb" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="$(MSBuildThisFileDirectory)Case.DoorMarkRenumber.addin" />
+    <None Include="$(MSBuildThisFileDirectory)Case.Export.Families.addin" />
   </ItemGroup>
 </Project>
