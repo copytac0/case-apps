@@ -43,10 +43,10 @@ Global
 		SolutionGuid = {51B6A150-6704-47F5-8312-2D394F5E477C}
 	EndGlobalSection
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
-		..\Case.AppName.SharedProject\Case.AppName.SharedProject.projitems*{26048183-f5f8-40ae-96df-79129e55f5b4}*SharedItemsImports = 4
-		..\Case.AppName.SharedProject\Case.AppName.SharedProject.projitems*{6545597b-107e-4b89-8b47-bbf91c6817a0}*SharedItemsImports = 4
-		..\Case.AppName.SharedProject\Case.AppName.SharedProject.projitems*{a1f8439a-c5c2-471b-a049-647172c3a461}*SharedItemsImports = 4
-		..\Case.AppName.SharedProject\Case.AppName.SharedProject.projitems*{bda1608d-3185-4b34-b90c-ad2aea2bb066}*SharedItemsImports = 4
-		..\Case.AppName.SharedProject\Case.AppName.SharedProject.projitems*{f36ab59e-0d72-43b8-9688-84c0daca1c82}*SharedItemsImports = 13
+		Case.AppName.SharedProject\Case.AppName.SharedProject.projitems*{26048183-f5f8-40ae-96df-79129e55f5b4}*SharedItemsImports = 4
+		Case.AppName.SharedProject\Case.AppName.SharedProject.projitems*{6545597b-107e-4b89-8b47-bbf91c6817a0}*SharedItemsImports = 4
+		Case.AppName.SharedProject\Case.AppName.SharedProject.projitems*{a1f8439a-c5c2-471b-a049-647172c3a461}*SharedItemsImports = 4
+		Case.AppName.SharedProject\Case.AppName.SharedProject.projitems*{bda1608d-3185-4b34-b90c-ad2aea2bb066}*SharedItemsImports = 4
+		Case.AppName.SharedProject\Case.AppName.SharedProject.projitems*{f36ab59e-0d72-43b8-9688-84c0daca1c82}*SharedItemsImports = 13
 	EndGlobalSection
 EndGlobal

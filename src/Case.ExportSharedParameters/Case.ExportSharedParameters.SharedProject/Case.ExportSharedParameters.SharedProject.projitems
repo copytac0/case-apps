@@ -3,13 +3,12 @@
   <PropertyGroup>
     <MSBuildAllProjects Condition="'$(MSBuildVersion)' == '' Or '$(MSBuildVersion)' &lt; '16.0'">$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
     <HasSharedItems>true</HasSharedItems>
-    <SharedGUID>f36ab59e-0d72-43b8-9688-84c0daca1c82</SharedGUID>
+    <SharedGUID>695a2d82-dd93-4712-99ca-95978aad6d94</SharedGUID>
   </PropertyGroup>
   <PropertyGroup Label="Configuration">
-    <Import_RootNamespace>Case.AppName.SharedProject</Import_RootNamespace>
+    <Import_RootNamespace>Case.ExportSharedParameters.SharedProject</Import_RootNamespace>
   </PropertyGroup>
   <ItemGroup>
-    <Folder Include="$(MSBuildThisFileDirectory)Data\" />
-    <Folder Include="$(MSBuildThisFileDirectory)Entry\" />
+    <Compile Include="$(MSBuildThisFileDirectory)Classes\Entry\cmd.cs" />
   </ItemGroup>
 </Project>

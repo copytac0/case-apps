@@ -7,8 +7,8 @@
     <ProjectGuid>{0ACBCDF9-D03F-47C8-A50B-F2A66581D32B}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Case.AppName</RootNamespace>
-    <AssemblyName>Case.AppName</AssemblyName>
+    <RootNamespace>Case.ExportSharedParameters</RootNamespace>
+    <AssemblyName>Case.ExportSharedParameters</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
@@ -51,12 +51,21 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="UI\form_Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\form_Main.designer.cs">
+      <DependentUpon>form_Main.cs</DependentUpon>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
+    <EmbeddedResource Include="UI\form_Main.resx">
+      <DependentUpon>form_Main.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Resources\Case_Clearly.png" />
   </ItemGroup>
-  <Import Project="..\Case.AppName.SharedProject\Case.AppName.SharedProject.projitems" Label="Shared" />
+  <Import Project="..\Case.ExportSharedParameters.SharedProject\Case.ExportSharedParameters.SharedProject.projitems" Label="Shared" />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

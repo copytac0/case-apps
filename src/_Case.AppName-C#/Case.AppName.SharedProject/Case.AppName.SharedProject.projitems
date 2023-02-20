@@ -9,5 +9,7 @@
     <Import_RootNamespace>Case.AppName.SharedProject</Import_RootNamespace>
   </PropertyGroup>
   <ItemGroup>
+    <Folder Include="$(MSBuildThisFileDirectory)Data\" />
+    <Folder Include="$(MSBuildThisFileDirectory)Entry\" />
   </ItemGroup>
 </Project>
