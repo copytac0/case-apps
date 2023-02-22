@@ -13,6 +13,7 @@
     <None Include="$(MSBuildThisFileDirectory)Mass.rft" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="$(MSBuildThisFileDirectory)API\clsUsage.vb" />
     <Compile Include="$(MSBuildThisFileDirectory)Data\clsConfig.vb" />
     <Compile Include="$(MSBuildThisFileDirectory)Data\clsFamOptions.vb" />
     <Compile Include="$(MSBuildThisFileDirectory)Data\clsMapping.vb" />
