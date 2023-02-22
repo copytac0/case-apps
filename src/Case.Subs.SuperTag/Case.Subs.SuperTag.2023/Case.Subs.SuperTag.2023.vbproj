@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{A1F8439A-C5C2-471B-A049-647172C3A461}</ProjectGuid>
+    <ProjectGuid>{55BE4F04-9043-4B22-8A84-5A64DACB8333}</ProjectGuid>
     <OutputType>Library</OutputType>
     <RootNamespace>Case.Subs.SuperTag</RootNamespace>
     <AssemblyName>Case.Subs.SuperTag</AssemblyName>

@@ -65,9 +65,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Case.Subs.Renamer", "Case.S
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Case.Subs.RoomsToMass", "Case.Subs.RoomsToMass", "{C5D806D0-82DD-4AA5-B5AD-919412CFB823}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "!Case.Subs.SharedParameters", "!Case.Subs.SharedParameters", "{4EE932C2-BB88-4824-849D-A9CD321B5208}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Case.Subs.SharedParameters", "Case.Subs.SharedParameters", "{4EE932C2-BB88-4824-849D-A9CD321B5208}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "!Case.Subs.SuperTag", "!Case.Subs.SuperTag", "{D74920D6-7D00-46AE-AC03-1E408C798A4F}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Case.Subs.SuperTag", "Case.Subs.SuperTag", "{D74920D6-7D00-46AE-AC03-1E408C798A4F}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "!Case.Subs.ViewSync", "!Case.Subs.ViewSync", "{E93E20C4-7840-4B01-ACB5-F90F6CD5EFD1}"
 EndProject
@@ -404,6 +404,16 @@ EndProject
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Case.Subs.SharedParameters.2023", "Case.Subs.SharedParameters\Case.Subs.SharedParameters.2023\Case.Subs.SharedParameters.2023.vbproj", "{226F8EA8-2FC5-4BDA-A9BB-9062E367E12A}"
 EndProject
 Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "Case.Subs.SharedParameters.SharedProject", "Case.Subs.SharedParameters\Case.Subs.SharedParameters.SharedProject\Case.Subs.SharedParameters.SharedProject.shproj", "{B042FBDE-3448-401B-82CC-E9692817C506}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Case.Subs.SuperTag.2020", "Case.Subs.SuperTag\Case.Subs.SuperTag.2020\Case.Subs.SuperTag.2020.vbproj", "{A78D19FD-4350-4C07-8B92-CD83025C30FC}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Case.Subs.SuperTag.2021", "Case.Subs.SuperTag\Case.Subs.SuperTag.2021\Case.Subs.SuperTag.2021.vbproj", "{A7EDBF7C-F58A-46A8-B252-1AA2010C21DD}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Case.Subs.SuperTag.2022", "Case.Subs.SuperTag\Case.Subs.SuperTag.2022\Case.Subs.SuperTag.2022.vbproj", "{5B17CE35-364B-4706-8043-07716AB562DF}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Case.Subs.SuperTag.2023", "Case.Subs.SuperTag\Case.Subs.SuperTag.2023\Case.Subs.SuperTag.2023.vbproj", "{55BE4F04-9043-4B22-8A84-5A64DACB8333}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "Case.Subs.SuperTag.SharedProject", "Case.Subs.SuperTag\Case.Subs.SuperTag.SharedProject\Case.Subs.SuperTag.SharedProject.shproj", "{C07D9B6A-5B8A-402D-8476-CFD37D7668C9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -923,6 +933,22 @@ Global
 		{226F8EA8-2FC5-4BDA-A9BB-9062E367E12A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{226F8EA8-2FC5-4BDA-A9BB-9062E367E12A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{226F8EA8-2FC5-4BDA-A9BB-9062E367E12A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A78D19FD-4350-4C07-8B92-CD83025C30FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A78D19FD-4350-4C07-8B92-CD83025C30FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A78D19FD-4350-4C07-8B92-CD83025C30FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A78D19FD-4350-4C07-8B92-CD83025C30FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7EDBF7C-F58A-46A8-B252-1AA2010C21DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7EDBF7C-F58A-46A8-B252-1AA2010C21DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7EDBF7C-F58A-46A8-B252-1AA2010C21DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7EDBF7C-F58A-46A8-B252-1AA2010C21DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B17CE35-364B-4706-8043-07716AB562DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B17CE35-364B-4706-8043-07716AB562DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B17CE35-364B-4706-8043-07716AB562DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B17CE35-364B-4706-8043-07716AB562DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55BE4F04-9043-4B22-8A84-5A64DACB8333}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55BE4F04-9043-4B22-8A84-5A64DACB8333}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55BE4F04-9043-4B22-8A84-5A64DACB8333}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55BE4F04-9043-4B22-8A84-5A64DACB8333}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1088,6 +1114,11 @@ Global
 		{20DB2BBF-9540-4CBF-A519-E5F70A9F1639} = {4EE932C2-BB88-4824-849D-A9CD321B5208}
 		{226F8EA8-2FC5-4BDA-A9BB-9062E367E12A} = {4EE932C2-BB88-4824-849D-A9CD321B5208}
 		{B042FBDE-3448-401B-82CC-E9692817C506} = {4EE932C2-BB88-4824-849D-A9CD321B5208}
+		{A78D19FD-4350-4C07-8B92-CD83025C30FC} = {D74920D6-7D00-46AE-AC03-1E408C798A4F}
+		{A7EDBF7C-F58A-46A8-B252-1AA2010C21DD} = {D74920D6-7D00-46AE-AC03-1E408C798A4F}
+		{5B17CE35-364B-4706-8043-07716AB562DF} = {D74920D6-7D00-46AE-AC03-1E408C798A4F}
+		{55BE4F04-9043-4B22-8A84-5A64DACB8333} = {D74920D6-7D00-46AE-AC03-1E408C798A4F}
+		{C07D9B6A-5B8A-402D-8476-CFD37D7668C9} = {D74920D6-7D00-46AE-AC03-1E408C798A4F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {C042A7A8-5772-438B-8DEA-38590E9D586B}
@@ -1141,10 +1172,12 @@ Global
 		Case.Subs.Linestyles\Case.Subs.Linestyles.SharedProject\Case.Subs.Linestyles.SharedProject.projitems*{5129ef4d-c0fd-468e-9fbf-04afa4fabb41}*SharedItemsImports = 4
 		Case.ExportSharedParameters\Case.ExportSharedParameters.SharedProject\Case.ExportSharedParameters.SharedProject.projitems*{53c1fbf7-6812-4c11-9e01-5048d0b30e21}*SharedItemsImports = 4
 		Case.ExtrudeRoomsToMass\Case.ExtrudeRoomsToMass.SharedProject\Case.ExtrudeRoomsToMass.SharedProject.projitems*{545b69f3-ef18-4cec-b0e6-2f5f550a1529}*SharedItemsImports = 13
+		Case.Subs.SuperTag\Case.Subs.SuperTag.SharedProject\Case.Subs.SuperTag.SharedProject.projitems*{55be4f04-9043-4b22-8a84-5a64dacb8333}*SharedItemsImports = 4
 		Case.DoorMarkRenumber\Case.DoorMarkRenumber.SharedProject\Case.DoorMarkRenumber.SharedProject.projitems*{565705b9-2504-4a3e-9ec7-82254aa0737b}*SharedItemsImports = 4
 		Case.RoomSync\Case.RoomSync.SharedProject\Case.RoomSync.SharedProject.projitems*{591e2b04-3b24-4666-b472-82eeab11291a}*SharedItemsImports = 4
 		Case.DimensionOverrides\Case.DimensionOverrides.SharedProject\Case.DimensionOverrides.SharedProject.projitems*{5a18d492-c7a8-4494-8395-19be20c66821}*SharedItemsImports = 13
 		Case.Export.Families\Case.Export.Families.SharedProject\Case.Export.Families.SharedProject.projitems*{5ac9d562-29e5-4771-8f6d-1a83f522c1a3}*SharedItemsImports = 4
+		Case.Subs.SuperTag\Case.Subs.SuperTag.SharedProject\Case.Subs.SuperTag.SharedProject.projitems*{5b17ce35-364b-4706-8043-07716ab562df}*SharedItemsImports = 4
 		Case.Subs.DeleteViewsAndPurge\Case.Subs.DeleteViewsAndPurge.SharedProject\Case.Subs.DeleteViewsAndPurge.SharedProject.projitems*{5c4f2566-fb8c-4893-ba60-a85e3d22c14f}*SharedItemsImports = 4
 		Case.ExportSharedParameters\Case.ExportSharedParameters.SharedProject\Case.ExportSharedParameters.SharedProject.projitems*{5d8b398d-c18d-4424-bfc5-2702c8a9c3a9}*SharedItemsImports = 4
 		Case.DoorMarkRenumber\Case.DoorMarkRenumber.SharedProject\Case.DoorMarkRenumber.SharedProject.projitems*{5e485d42-7d4b-495c-893a-e2b7c577d810}*SharedItemsImports = 4
@@ -1196,6 +1229,8 @@ Global
 		Case.MultiViewDuplicate\Case.MultiViewDuplicate.SharedProject\Case.MultiViewDuplicate.SharedProject.projitems*{a284859c-aa52-4fa7-aacf-8c46c404e944}*SharedItemsImports = 13
 		Case.Subs.RoomsToMass\Case.Subs.RoomsToMass.SharedProject\Case.Subs.RoomsToMass.SharedProject.projitems*{a68691e9-f3fb-4bdc-94a6-351935e9af89}*SharedItemsImports = 4
 		Case.ImageToDraftingView\Case.ImageToDraftingView.SharedProject\Case.ImageToDraftingView.SharedProject.projitems*{a74d7bba-1d9f-485a-8d22-c2383b5fb160}*SharedItemsImports = 4
+		Case.Subs.SuperTag\Case.Subs.SuperTag.SharedProject\Case.Subs.SuperTag.SharedProject.projitems*{a78d19fd-4350-4c07-8b92-cd83025c30fc}*SharedItemsImports = 4
+		Case.Subs.SuperTag\Case.Subs.SuperTag.SharedProject\Case.Subs.SuperTag.SharedProject.projitems*{a7edbf7c-f58a-46a8-b252-1aa2010c21dd}*SharedItemsImports = 4
 		Case.HiddenParameterToParameter\Case.HiddenParameterToParameter.SharedProject\Case.HiddenParameterToParameter.SharedProject.projitems*{a8792897-6d9c-4e52-af8d-f472f12c50ce}*SharedItemsImports = 4
 		Case.ObjectStyles\Case.ObjectStyles.SharedProject\Case.ObjectStyles.SharedProject.projitems*{a90d97e9-1d7e-4e3c-b139-0ee63e8356b3}*SharedItemsImports = 4
 		Case.ParallelWalls\Case.ParallelWalls.SharedProject\Case.ParallelWalls.SharedProject.projitems*{ab8ca1ac-fbcd-4670-9ec1-323096c73469}*SharedItemsImports = 4
@@ -1211,6 +1246,7 @@ Global
 		Case.DeleteViewsAndPurge\Case.DeleteViewsAndPurge.SharedProject\Case.DeleteViewsAndPurge.SharedProject.projitems*{bb1b4455-30eb-4ac6-879d-0ef590f3f343}*SharedItemsImports = 4
 		Case.BasicReporting\Case.BasicReporting.SharedProject\Case.BasicReporting.SharedProject.projitems*{bda1608d-3185-4b34-b90c-ad2aea2bb066}*SharedItemsImports = 4
 		Case.Export.Families\Case.Export.Families.SharedProject\Case.Export.Families.SharedProject.projitems*{bde64d27-e155-4935-a4fe-8f940509a4f2}*SharedItemsImports = 4
+		Case.Subs.SuperTag\Case.Subs.SuperTag.SharedProject\Case.Subs.SuperTag.SharedProject.projitems*{c07d9b6a-5b8a-402d-8476-cfd37d7668c9}*SharedItemsImports = 13
 		Case.Subs.Renamer\Case.Subs.Renamer.SharedProject\Case.Subs.Renamer.SharedProject.projitems*{c35e65dd-ee16-4053-b2e8-7c9d2cb53eb3}*SharedItemsImports = 13
 		Case.ChangeReplaceFamTypeNames\Case.ChangeReplaceFamTypeNames.SharedProject\Case.ChangeReplaceFamTypeNames.SharedProject.projitems*{c52c5631-7266-435c-8b14-9b6d6bd80532}*SharedItemsImports = 13
 		Case.ParallelWalls\Case.ParallelWalls.SharedProject\Case.ParallelWalls.SharedProject.projitems*{c6009584-711d-4aff-96de-4e55b2c5b37b}*SharedItemsImports = 4
