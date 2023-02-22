@@ -24,24 +24,7 @@ namespace Case.ApplySysOrient.Entry
 
       try
       {
-
-        // Version
-        if (!commandData.Application.Application.VersionName.Contains("2021"))
-        {
-
-          // Failure
-          using (TaskDialog td = new TaskDialog("Cannot Continue"))
-          {
-            td.TitleAutoPrefix = false;
-            td.MainInstruction = "Incompatible Revit Version";
-            td.MainContent = "";
-            td.Show();
-          }
-          return Result.Failed;
-
-        }
-
-        // Settings
+          // Settings
         clsSettings m_s = new clsSettings(commandData);
 
         // Main Category Selection Form
