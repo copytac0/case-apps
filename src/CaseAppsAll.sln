@@ -1544,6 +1544,7 @@ Global
 		Case.Subs.OpenNURBS\Case.Subs.OpenNURBS.SharedProject\Case.Subs.OpenNURBS.SharedProject.projitems*{d6e6f534-4654-477c-bcdc-2579972bf201}*SharedItemsImports = 4
 		Case.ViewTemplates\Case.ViewTemplates.SharedProject\Case.ViewTemplates.SharedProject.projitems*{da1082a8-1d39-457f-a9aa-1f0f783f21fd}*SharedItemsImports = 13
 		Case.Subs.MultiViewDuplicate\Case.Subs.MultiViewDuplicate.SharedProject\Case.Subs.MultiViewDuplicate.SharedProject.projitems*{dc077232-60d4-49ed-915a-1a907aa7535f}*SharedItemsImports = 4
+		Case.FamilySubcategories\Case.FamilySubcategories.SharedProject\Case.FamilySubcategories.SharedProject.projitems*{dc2297a3-9668-436b-9a45-03ce14cd4a82}*SharedItemsImports = 4
 		Case.ReportGroupsByView\Case.ReportGroupsByView.SharedProject\Case.ReportGroupsByView.SharedProject.projitems*{df83342f-943b-4d37-952b-9375c4ee7839}*SharedItemsImports = 4
 		Case.Subs.OpenNURBS\Case.Subs.OpenNURBS.SharedProject\Case.Subs.OpenNURBS.SharedProject.projitems*{e0a35586-8d95-4882-a6fb-af1fa36ee2ab}*SharedItemsImports = 13
 		Case.Subs.Xyz\Case.Subs.Xyz.SharedProject\Case.Subs.Xyz.SharedProject.projitems*{e2194ef5-37db-4cf2-a6c8-4256ba9dbcb9}*SharedItemsImports = 4
