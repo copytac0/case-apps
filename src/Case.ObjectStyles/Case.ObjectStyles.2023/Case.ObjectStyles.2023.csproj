@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{0ACBCDF9-D03F-47C8-A50B-F2A66581D32B}</ProjectGuid>
+    <ProjectGuid>{B8F03793-963E-478B-8AD5-5EDC18FA65BD}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Case.ObjectStyles</RootNamespace>

@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{B5ED3506-2771-440B-965A-FCF0E4C8AD93}</ProjectGuid>
+    <ProjectGuid>{F432A6B0-4A0B-4A64-BB19-5C910B7FCBC7}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Case.Subs.KeyMatcher</RootNamespace>

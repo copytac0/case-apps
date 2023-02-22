@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{6545597B-107E-4B89-8B47-BBF91C6817A0}</ProjectGuid>
+    <ProjectGuid>{CE2ECE5E-4F9E-4BFC-9444-8AAC67F631B8}</ProjectGuid>
     <OutputType>Library</OutputType>
     <RootNamespace>Case.SharedParameters</RootNamespace>
     <AssemblyName>Case.SharedParameters</AssemblyName>

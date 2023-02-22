@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{D14EAEDD-8681-4A28-AE16-9C5705508FCE}</ProjectGuid>
+    <ProjectGuid>{B7287C72-B542-48F8-994A-F58DA8FAFC38}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Case.ReportGroupsByView</RootNamespace>

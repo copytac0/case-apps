@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{6545597B-107E-4B89-8B47-BBF91C6817A0}</ProjectGuid>
+    <ProjectGuid>{591E2B04-3B24-4666-B472-82EEAB11291A}</ProjectGuid>
     <OutputType>Library</OutputType>
     <RootNamespace>Case.RoomSync</RootNamespace>
     <AssemblyName>Case.RoomSync</AssemblyName>

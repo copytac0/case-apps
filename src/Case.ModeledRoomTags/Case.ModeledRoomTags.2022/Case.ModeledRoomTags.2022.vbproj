@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{BDA1608D-3185-4B34-B90C-AD2AEA2BB066}</ProjectGuid>
+    <ProjectGuid>{82659C76-3C41-4914-AFF8-1DB95FFC1F8A}</ProjectGuid>
     <OutputType>Library</OutputType>
     <RootNamespace>Case.ModeledRoomTags</RootNamespace>
     <AssemblyName>Case.ModeledRoomTags</AssemblyName>

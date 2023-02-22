@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{6545597B-107E-4B89-8B47-BBF91C6817A0}</ProjectGuid>
+    <ProjectGuid>{20FC1BB6-C6D8-4B3D-ACF2-503263E23BD9}</ProjectGuid>
     <OutputType>Library</OutputType>
     <RootNamespace>Case.Subs.MultiViewDuplicate</RootNamespace>
     <AssemblyName>Case.Subs.MultiViewDuplicate</AssemblyName>

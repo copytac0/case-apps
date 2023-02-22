@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{BDA1608D-3185-4B34-B90C-AD2AEA2BB066}</ProjectGuid>
+    <ProjectGuid>{F5DB269F-C9B4-4F5B-A71B-91BDC4E11B89}</ProjectGuid>
     <OutputType>Library</OutputType>
     <RootNamespace>Case.Subs.RoomsToMass</RootNamespace>
     <AssemblyName>Case.Subs.RoomsToMass</AssemblyName>

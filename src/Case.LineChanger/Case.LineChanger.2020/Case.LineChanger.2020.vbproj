@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{6545597B-107E-4B89-8B47-BBF91C6817A0}</ProjectGuid>
+    <ProjectGuid>{44B10CAF-D91E-43C1-A275-469B78DBD3F8}</ProjectGuid>
     <OutputType>Library</OutputType>
     <RootNamespace>Case.LineChanger</RootNamespace>
     <AssemblyName>Case.LineChanger</AssemblyName>

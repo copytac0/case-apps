@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{A1F8439A-C5C2-471B-A049-647172C3A461}</ProjectGuid>
+    <ProjectGuid>{3B850267-D5AD-4D5C-B6FD-EB31C1861AAA}</ProjectGuid>
     <OutputType>Library</OutputType>
     <RootNamespace>Case.Subs.Exceler8</RootNamespace>
     <AssemblyName>Case.Subs.Exceler8</AssemblyName>

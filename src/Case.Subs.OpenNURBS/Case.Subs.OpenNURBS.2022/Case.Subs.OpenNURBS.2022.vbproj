@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{BDA1608D-3185-4B34-B90C-AD2AEA2BB066}</ProjectGuid>
+    <ProjectGuid>{1D3EE03C-E820-4E2D-A475-91AFF0FA7C1F}</ProjectGuid>
     <OutputType>Library</OutputType>
     <RootNamespace>Case.Subs.OpenNURBS</RootNamespace>
     <AssemblyName>Case.Subs.OpenNURBS</AssemblyName>

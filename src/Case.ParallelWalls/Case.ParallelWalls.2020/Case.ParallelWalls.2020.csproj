@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{D14EAEDD-8681-4A28-AE16-9C5705508FCE}</ProjectGuid>
+    <ProjectGuid>{97D2F799-D090-4375-9FD6-9BFB8200225F}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Case.ParallelWalls</RootNamespace>

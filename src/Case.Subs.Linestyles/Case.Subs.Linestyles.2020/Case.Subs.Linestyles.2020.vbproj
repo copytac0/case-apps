@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{6545597B-107E-4B89-8B47-BBF91C6817A0}</ProjectGuid>
+    <ProjectGuid>{7FFDD336-312E-41B2-A15F-F3C7ADA5DDD3}</ProjectGuid>
     <OutputType>Library</OutputType>
     <RootNamespace>Case.Subs.Linestyles</RootNamespace>
     <AssemblyName>Case.Subs.Linestyles</AssemblyName>

@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{A1F8439A-C5C2-471B-A049-647172C3A461}</ProjectGuid>
+    <ProjectGuid>{0B872AB7-0C8A-4217-9516-850E8423146C}</ProjectGuid>
     <OutputType>Library</OutputType>
     <RootNamespace>Case.FreeBenchmarking</RootNamespace>
     <AssemblyName>Case.FreeBenchmarking</AssemblyName>

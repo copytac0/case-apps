@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{A1F8439A-C5C2-471B-A049-647172C3A461}</ProjectGuid>
+    <ProjectGuid>{B9546F99-78C9-48BD-A7F9-DDE57DC21A0F}</ProjectGuid>
     <OutputType>Library</OutputType>
     <RootNamespace>Case.LightingLayout</RootNamespace>
     <AssemblyName>Case.LightingLayout</AssemblyName>

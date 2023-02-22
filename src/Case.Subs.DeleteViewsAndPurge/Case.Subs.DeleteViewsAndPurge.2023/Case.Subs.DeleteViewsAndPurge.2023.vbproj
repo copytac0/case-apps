@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{A1F8439A-C5C2-471B-A049-647172C3A461}</ProjectGuid>
+    <ProjectGuid>{12DD380C-B6D4-4B7C-BC6D-D02403CC9EA6}</ProjectGuid>
     <OutputType>Library</OutputType>
     <RootNamespace>Case.Subs.DeleteViewsAndPurge</RootNamespace>
     <AssemblyName>Case.Subs.DeleteViewsAndPurge</AssemblyName>
