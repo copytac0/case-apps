@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{A1F8439A-C5C2-471B-A049-647172C3A461}</ProjectGuid>
+    <ProjectGuid>{BDE64D27-E155-4935-A4FE-8F940509A4F2}</ProjectGuid>
     <OutputType>Library</OutputType>
     <RootNamespace>Case.Export.Families</RootNamespace>
     <AssemblyName>Case.Export.Families</AssemblyName>

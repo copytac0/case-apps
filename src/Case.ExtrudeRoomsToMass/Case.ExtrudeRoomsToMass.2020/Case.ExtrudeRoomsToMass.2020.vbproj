@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{6545597B-107E-4B89-8B47-BBF91C6817A0}</ProjectGuid>
+    <ProjectGuid>{EDB9D635-9FD2-4332-AADD-B948CD628891}</ProjectGuid>
     <OutputType>Library</OutputType>
     <RootNamespace>Case.ExtrudeRoomsToMass</RootNamespace>
     <AssemblyName>Case.ExtrudeRoomsToMass</AssemblyName>

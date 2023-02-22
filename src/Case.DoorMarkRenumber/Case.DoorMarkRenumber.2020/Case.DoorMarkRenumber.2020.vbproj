@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{6545597B-107E-4B89-8B47-BBF91C6817A0}</ProjectGuid>
+    <ProjectGuid>{32066750-9AA7-490B-B492-06356FA14FAC}</ProjectGuid>
     <OutputType>Library</OutputType>
     <RootNamespace>Case.DoorMarkRenumber</RootNamespace>
     <AssemblyName>Case.DoorMarkRenumber</AssemblyName>
