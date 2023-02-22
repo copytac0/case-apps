@@ -83,7 +83,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Case.ViewCreator", "Case.Vi
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Case.ViewportReporting", "Case.ViewportReporting", "{FA3D7B80-4B6E-4ECA-8F0A-FC73515D7B5B}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "!Case.ViewTemplates", "!Case.ViewTemplates", "{506398BD-B84A-4C15-9A2F-703841614599}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Case.ViewTemplates", "Case.ViewTemplates", "{506398BD-B84A-4C15-9A2F-703841614599}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Case.ApplySysOrient.2023", "Case.ApplySysOrient\Case.ApplySysOrient.2023\Case.ApplySysOrient.2023.csproj", "{0ACBCDF9-D03F-47C8-A50B-F2A66581D32B}"
 EndProject
