@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{0ACBCDF9-D03F-47C8-A50B-F2A66581D32B}</ProjectGuid>
+    <ProjectGuid>{05CE019D-9DEB-4B2E-81EF-551F46EE7996}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Case.DimensionOverrides</RootNamespace>

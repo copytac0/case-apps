@@ -1,0 +1,321 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Case.ApplySysOrient", "Case.ApplySysOrient", "{5E12D0E6-4883-4D56-835B-00395FF01F2C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Case.BasicReporting", "Case.BasicReporting", "{0093F4CA-58B6-44EB-A7DB-A236928C0975}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Case.ChangeReplaceFamTypeNames", "Case.ChangeReplaceFamTypeNames", "{ABA2D62C-6074-470A-9911-164F6FDB8F08}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Case.DeleteViewsAndPurge", "Case.DeleteViewsAndPurge", "{10FE6123-1B89-4E2B-B40D-91C38DF99F99}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Case.DimensionOverrides", "Case.DimensionOverrides", "{339B5DF0-6EF5-4BA7-A436-460DD7D502E9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Case.Directionality", "Case.Directionality", "{F89F94D0-BBFE-4803-B145-4FA0B1496F41}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "!Case.DoorMarkRenumber", "!Case.DoorMarkRenumber", "{A449176F-041F-42D3-90BE-3267CB47FBB2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "!Case.Export.Families", "!Case.Export.Families", "{EFA3277B-C4EF-4E93-B9D7-AF3A257630D3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "!Case.ExportSharedParameters", "!Case.ExportSharedParameters", "{3DE3B1D8-21AA-49E8-BEC8-FE7383FA4B26}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "!Case.ExtrudeRoomsToMass", "!Case.ExtrudeRoomsToMass", "{2182FEB4-6F44-4C07-8226-EF4CAB1361C2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "!Case.FamilySubcategories", "!Case.FamilySubcategories", "{9B1C10D1-64A8-40B4-873F-A8C254F31945}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "!Case.FreeBenchmarking", "!Case.FreeBenchmarking", "{94CABF48-8847-406E-BDF0-0D1B74962855}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "!Case.HiddenParameterToParameter", "!Case.HiddenParameterToParameter", "{9D7A7735-0CC9-488E-BA0C-C70E8C8189D0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "!Case.ImageToDraftingView", "!Case.ImageToDraftingView", "{B8CD2D52-AB93-4147-8C69-483092124FD6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "!Case.LightingLayout", "!Case.LightingLayout", "{D3103EE7-96FF-490F-AE4C-A4F2F076EA5C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "!Case.LineChanger", "!Case.LineChanger", "{83D6A68C-3696-4E92-B493-DD3B70B1F690}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "!Case.ModeledRoomTags", "!Case.ModeledRoomTags", "{3D01CB9B-C5CE-471B-8D7D-F1B5116AA133}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "!Case.MultiViewDuplicate", "!Case.MultiViewDuplicate", "{2EBA7134-8040-4D17-ABE9-DE7633CF6124}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "!Case.ObjectStyles", "!Case.ObjectStyles", "{DCD0ECF4-E1E5-4ED4-96CB-983FFC59CEB4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "!Case.ParallelWalls", "!Case.ParallelWalls", "{1BA1EEB6-36EA-4529-AC67-8B31A0AD9B86}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "!Case.ReportGroupsByView", "!Case.ReportGroupsByView", "{3A15A9B5-6E0B-4F72-B572-6AA1D943E02F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "!Case.RoomSync", "!Case.RoomSync", "{0F2B01F9-1707-4D10-85BB-36C87082883E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "!Case.SharedParameters", "!Case.SharedParameters", "{E51DDD2F-40E4-4BA9-8802-CAB4030CC321}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "!Case.Subs.DeleteViewsAndPurge", "!Case.Subs.DeleteViewsAndPurge", "{860AD248-93AF-4553-A4CB-BE5C64FFADF5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "!Case.Subs.Exceler8", "!Case.Subs.Exceler8", "{10EE1092-24B4-45FE-80A3-00DD44E47CDD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "!Case.Subs.KeyMatcher", "!Case.Subs.KeyMatcher", "{3AFD8BC9-BD97-4858-BCF3-34835EDC2C73}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "!Case.Subs.Linestyles", "!Case.Subs.Linestyles", "{A14D2DEA-FFD0-4D56-8F54-3950F7379510}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "!Case.Subs.MultiViewDuplicate", "!Case.Subs.MultiViewDuplicate", "{162BFB89-89EC-4C3B-AB57-58E1D4A7EE58}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "!Case.Subs.OpenNURBS", "!Case.Subs.OpenNURBS", "{8DC475C5-B7F1-4962-AB1C-57931282361E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "!Case.Subs.Renamer", "!Case.Subs.Renamer", "{753594B5-25CB-4747-9C32-62E0E2332298}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "!Case.Subs.RoomsToMass", "!Case.Subs.RoomsToMass", "{C5D806D0-82DD-4AA5-B5AD-919412CFB823}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "!Case.Subs.SharedParameters", "!Case.Subs.SharedParameters", "{4EE932C2-BB88-4824-849D-A9CD321B5208}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "!Case.Subs.SuperTag", "!Case.Subs.SuperTag", "{D74920D6-7D00-46AE-AC03-1E408C798A4F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "!Case.Subs.ViewSync", "!Case.Subs.ViewSync", "{E93E20C4-7840-4B01-ACB5-F90F6CD5EFD1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "!Case.Subs.ViewTemplates", "!Case.Subs.ViewTemplates", "{FB857760-0D4B-4009-864B-DA2DC4AA588C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "!Case.Subs.Worksets", "!Case.Subs.Worksets", "{F8353778-5013-445E-A41E-607F8A3F42B2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "!Case.Subs.Xyz", "!Case.Subs.Xyz", "{AA2717CF-F405-426F-B2E8-22F16A8E39B2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "!Case.UngroupAll", "!Case.UngroupAll", "{39492065-F4B6-4131-81E4-0B312C8940F8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "!Case.ViewCreator", "!Case.ViewCreator", "{73560444-A0D4-4ED4-A755-77813933DC25}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "!Case.ViewportReporting", "!Case.ViewportReporting", "{FA3D7B80-4B6E-4ECA-8F0A-FC73515D7B5B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "!Case.ViewTemplates", "!Case.ViewTemplates", "{506398BD-B84A-4C15-9A2F-703841614599}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Case.ApplySysOrient.2023", "Case.ApplySysOrient\Case.ApplySysOrient.2023\Case.ApplySysOrient.2023.csproj", "{0ACBCDF9-D03F-47C8-A50B-F2A66581D32B}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "Case.ApplySysOrient.SharedProject", "Case.ApplySysOrient\Case.ApplySysOrient.SharedProject\Case.ApplySysOrient.SharedProject.shproj", "{695A2D82-DD93-4712-99CA-95978AAD6D94}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Case.ApplySysOrient.2022", "Case.ApplySysOrient\Case.ApplySysOrient.2022\Case.ApplySysOrient.2022.csproj", "{B5ED3506-2771-440B-965A-FCF0E4C8AD93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Case.ApplySysOrient.2021", "Case.ApplySysOrient\Case.ApplySysOrient.2021\Case.ApplySysOrient.2021.csproj", "{E3542FC6-DC3A-4537-B1F1-84EA44A4CDED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Case.ApplySysOrient.2020", "Case.ApplySysOrient\Case.ApplySysOrient.2020\Case.ApplySysOrient.2020.csproj", "{D14EAEDD-8681-4A28-AE16-9C5705508FCE}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Case.BasicReporting.2020", "Case.BasicReporting\Case.BasicReporting.2020\Case.BasicReporting.2020.vbproj", "{6545597B-107E-4B89-8B47-BBF91C6817A0}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Case.BasicReporting.2021", "Case.BasicReporting\Case.BasicReporting.2021\Case.BasicReporting.2021.vbproj", "{26048183-F5F8-40AE-96DF-79129E55F5B4}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Case.BasicReporting.2022", "Case.BasicReporting\Case.BasicReporting.2022\Case.BasicReporting.2022.vbproj", "{BDA1608D-3185-4B34-B90C-AD2AEA2BB066}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Case.BasicReporting.2023", "Case.BasicReporting\Case.BasicReporting.2023\Case.BasicReporting.2023.vbproj", "{A1F8439A-C5C2-471B-A049-647172C3A461}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "Case.BasicReporting.SharedProject", "Case.BasicReporting\Case.BasicReporting.SharedProject\Case.BasicReporting.SharedProject.shproj", "{F36AB59E-0D72-43B8-9688-84C0DACA1C82}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "Case.ChangeReplaceFamTypeNames.SharedProject", "Case.ChangeReplaceFamTypeNames\Case.ChangeReplaceFamTypeNames.SharedProject\Case.ChangeReplaceFamTypeNames.SharedProject.shproj", "{C52C5631-7266-435C-8B14-9B6D6BD80532}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Case.ChangeReplaceFamTypeNames.2023", "Case.ChangeReplaceFamTypeNames\Case.ChangeReplaceFamTypeNames.2023\Case.ChangeReplaceFamTypeNames.2023.vbproj", "{48DCB208-30A6-4966-A4A2-026A77EE9783}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Case.ChangeReplaceFamTypeNames.2022", "Case.ChangeReplaceFamTypeNames\Case.ChangeReplaceFamTypeNames.2022\Case.ChangeReplaceFamTypeNames.2022.vbproj", "{C8E2175E-1CE3-4081-B302-4FBA42853B25}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Case.ChangeReplaceFamTypeNames.2021", "Case.ChangeReplaceFamTypeNames\Case.ChangeReplaceFamTypeNames.2021\Case.ChangeReplaceFamTypeNames.2021.vbproj", "{2B27F1B1-170D-49F4-86A0-E0C9CFE24E9E}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Case.ChangeReplaceFamTypeNames.2020", "Case.ChangeReplaceFamTypeNames\Case.ChangeReplaceFamTypeNames.2020\Case.ChangeReplaceFamTypeNames.2020.vbproj", "{751D400F-6B86-482C-82F1-F998C3C0D852}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "Case.DeleteViewsAndPurge.SharedProject", "Case.DeleteViewsAndPurge\Case.DeleteViewsAndPurge.SharedProject\Case.DeleteViewsAndPurge.SharedProject.shproj", "{45130DEE-E2F6-4201-9218-B053084B32E3}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Case.DeleteViewsAndPurge.2023", "Case.DeleteViewsAndPurge\Case.DeleteViewsAndPurge.2023\Case.DeleteViewsAndPurge.2023.vbproj", "{6E8ADF81-616C-4D6F-B154-CAC66F501341}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Case.DeleteViewsAndPurge.2021", "Case.DeleteViewsAndPurge\Case.DeleteViewsAndPurge.2021\Case.DeleteViewsAndPurge.2021.vbproj", "{BB1B4455-30EB-4AC6-879D-0EF590F3F343}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Case.DeleteViewsAndPurge.2022", "Case.DeleteViewsAndPurge\Case.DeleteViewsAndPurge.2022\Case.DeleteViewsAndPurge.2022.vbproj", "{43E459F0-6488-4C86-9E0D-B7BF42908C9E}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Case.DeleteViewsAndPurge.2020", "Case.DeleteViewsAndPurge\Case.DeleteViewsAndPurge.2020\Case.DeleteViewsAndPurge.2020.vbproj", "{85DAC1E8-B6CE-4239-9567-0FB95807B4B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Case.DimensionOverrides.2023", "Case.DimensionOverrides\Case.DimensionOverrides.2023\Case.DimensionOverrides.2023.csproj", "{05CE019D-9DEB-4B2E-81EF-551F46EE7996}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "Case.DimensionOverrides.SharedProject", "Case.DimensionOverrides\Case.DimensionOverrides.SharedProject\Case.DimensionOverrides.SharedProject.shproj", "{5A18D492-C7A8-4494-8395-19BE20C66821}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Case.DimensionOverrides.2022", "Case.DimensionOverrides\Case.DimensionOverrides.2022\Case.DimensionOverrides.2022.csproj", "{FF0C932F-CFBB-475A-B8F1-0396AD00ECE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Case.DimensionOverrides.2021", "Case.DimensionOverrides\Case.DimensionOverrides.2021\Case.DimensionOverrides.2021.csproj", "{46804E3D-8188-4883-BD44-7D1DFBC31DCA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Case.DimensionOverrides.2020", "Case.DimensionOverrides\Case.DimensionOverrides.2020\Case.DimensionOverrides.2020.csproj", "{E4A65DC7-1402-460F-9417-90E7D4B52BFF}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Case.Directionality.2020", "Case.Directionality\Case.Directionality.2020\Case.Directionality.2020.vbproj", "{C8117A34-6910-4297-8FFD-88219B9E0CCA}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Case.Directionality.2021", "Case.Directionality\Case.Directionality.2021\Case.Directionality.2021.vbproj", "{CD02EAB9-A5AE-4478-BBB4-1E34F46C428A}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Case.Directionality.2022", "Case.Directionality\Case.Directionality.2022\Case.Directionality.2022.vbproj", "{99AC2673-025F-470B-A720-6E3227898104}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Case.Directionality.2023", "Case.Directionality\Case.Directionality.2023\Case.Directionality.2023.vbproj", "{82175DB8-919C-4E74-B519-6D909FC77121}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "Case.Directionality.SharedProject", "Case.Directionality\Case.Directionality.SharedProject\Case.Directionality.SharedProject.shproj", "{E37519DF-6809-48B4-8452-B8414FDCE70D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0ACBCDF9-D03F-47C8-A50B-F2A66581D32B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0ACBCDF9-D03F-47C8-A50B-F2A66581D32B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0ACBCDF9-D03F-47C8-A50B-F2A66581D32B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0ACBCDF9-D03F-47C8-A50B-F2A66581D32B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5ED3506-2771-440B-965A-FCF0E4C8AD93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5ED3506-2771-440B-965A-FCF0E4C8AD93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5ED3506-2771-440B-965A-FCF0E4C8AD93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5ED3506-2771-440B-965A-FCF0E4C8AD93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3542FC6-DC3A-4537-B1F1-84EA44A4CDED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3542FC6-DC3A-4537-B1F1-84EA44A4CDED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3542FC6-DC3A-4537-B1F1-84EA44A4CDED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3542FC6-DC3A-4537-B1F1-84EA44A4CDED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D14EAEDD-8681-4A28-AE16-9C5705508FCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D14EAEDD-8681-4A28-AE16-9C5705508FCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D14EAEDD-8681-4A28-AE16-9C5705508FCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D14EAEDD-8681-4A28-AE16-9C5705508FCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6545597B-107E-4B89-8B47-BBF91C6817A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6545597B-107E-4B89-8B47-BBF91C6817A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6545597B-107E-4B89-8B47-BBF91C6817A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6545597B-107E-4B89-8B47-BBF91C6817A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26048183-F5F8-40AE-96DF-79129E55F5B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26048183-F5F8-40AE-96DF-79129E55F5B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26048183-F5F8-40AE-96DF-79129E55F5B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26048183-F5F8-40AE-96DF-79129E55F5B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDA1608D-3185-4B34-B90C-AD2AEA2BB066}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDA1608D-3185-4B34-B90C-AD2AEA2BB066}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDA1608D-3185-4B34-B90C-AD2AEA2BB066}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDA1608D-3185-4B34-B90C-AD2AEA2BB066}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1F8439A-C5C2-471B-A049-647172C3A461}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1F8439A-C5C2-471B-A049-647172C3A461}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1F8439A-C5C2-471B-A049-647172C3A461}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1F8439A-C5C2-471B-A049-647172C3A461}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48DCB208-30A6-4966-A4A2-026A77EE9783}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48DCB208-30A6-4966-A4A2-026A77EE9783}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48DCB208-30A6-4966-A4A2-026A77EE9783}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48DCB208-30A6-4966-A4A2-026A77EE9783}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8E2175E-1CE3-4081-B302-4FBA42853B25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8E2175E-1CE3-4081-B302-4FBA42853B25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8E2175E-1CE3-4081-B302-4FBA42853B25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8E2175E-1CE3-4081-B302-4FBA42853B25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B27F1B1-170D-49F4-86A0-E0C9CFE24E9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B27F1B1-170D-49F4-86A0-E0C9CFE24E9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B27F1B1-170D-49F4-86A0-E0C9CFE24E9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B27F1B1-170D-49F4-86A0-E0C9CFE24E9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{751D400F-6B86-482C-82F1-F998C3C0D852}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{751D400F-6B86-482C-82F1-F998C3C0D852}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{751D400F-6B86-482C-82F1-F998C3C0D852}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{751D400F-6B86-482C-82F1-F998C3C0D852}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E8ADF81-616C-4D6F-B154-CAC66F501341}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E8ADF81-616C-4D6F-B154-CAC66F501341}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E8ADF81-616C-4D6F-B154-CAC66F501341}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E8ADF81-616C-4D6F-B154-CAC66F501341}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB1B4455-30EB-4AC6-879D-0EF590F3F343}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB1B4455-30EB-4AC6-879D-0EF590F3F343}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB1B4455-30EB-4AC6-879D-0EF590F3F343}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB1B4455-30EB-4AC6-879D-0EF590F3F343}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43E459F0-6488-4C86-9E0D-B7BF42908C9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43E459F0-6488-4C86-9E0D-B7BF42908C9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43E459F0-6488-4C86-9E0D-B7BF42908C9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43E459F0-6488-4C86-9E0D-B7BF42908C9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85DAC1E8-B6CE-4239-9567-0FB95807B4B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85DAC1E8-B6CE-4239-9567-0FB95807B4B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85DAC1E8-B6CE-4239-9567-0FB95807B4B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85DAC1E8-B6CE-4239-9567-0FB95807B4B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05CE019D-9DEB-4B2E-81EF-551F46EE7996}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05CE019D-9DEB-4B2E-81EF-551F46EE7996}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05CE019D-9DEB-4B2E-81EF-551F46EE7996}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05CE019D-9DEB-4B2E-81EF-551F46EE7996}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF0C932F-CFBB-475A-B8F1-0396AD00ECE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF0C932F-CFBB-475A-B8F1-0396AD00ECE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF0C932F-CFBB-475A-B8F1-0396AD00ECE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF0C932F-CFBB-475A-B8F1-0396AD00ECE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46804E3D-8188-4883-BD44-7D1DFBC31DCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46804E3D-8188-4883-BD44-7D1DFBC31DCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46804E3D-8188-4883-BD44-7D1DFBC31DCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46804E3D-8188-4883-BD44-7D1DFBC31DCA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4A65DC7-1402-460F-9417-90E7D4B52BFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4A65DC7-1402-460F-9417-90E7D4B52BFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4A65DC7-1402-460F-9417-90E7D4B52BFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4A65DC7-1402-460F-9417-90E7D4B52BFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8117A34-6910-4297-8FFD-88219B9E0CCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8117A34-6910-4297-8FFD-88219B9E0CCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8117A34-6910-4297-8FFD-88219B9E0CCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8117A34-6910-4297-8FFD-88219B9E0CCA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD02EAB9-A5AE-4478-BBB4-1E34F46C428A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD02EAB9-A5AE-4478-BBB4-1E34F46C428A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD02EAB9-A5AE-4478-BBB4-1E34F46C428A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD02EAB9-A5AE-4478-BBB4-1E34F46C428A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99AC2673-025F-470B-A720-6E3227898104}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99AC2673-025F-470B-A720-6E3227898104}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99AC2673-025F-470B-A720-6E3227898104}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99AC2673-025F-470B-A720-6E3227898104}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82175DB8-919C-4E74-B519-6D909FC77121}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82175DB8-919C-4E74-B519-6D909FC77121}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82175DB8-919C-4E74-B519-6D909FC77121}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82175DB8-919C-4E74-B519-6D909FC77121}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{0ACBCDF9-D03F-47C8-A50B-F2A66581D32B} = {5E12D0E6-4883-4D56-835B-00395FF01F2C}
+		{695A2D82-DD93-4712-99CA-95978AAD6D94} = {5E12D0E6-4883-4D56-835B-00395FF01F2C}
+		{B5ED3506-2771-440B-965A-FCF0E4C8AD93} = {5E12D0E6-4883-4D56-835B-00395FF01F2C}
+		{E3542FC6-DC3A-4537-B1F1-84EA44A4CDED} = {5E12D0E6-4883-4D56-835B-00395FF01F2C}
+		{D14EAEDD-8681-4A28-AE16-9C5705508FCE} = {5E12D0E6-4883-4D56-835B-00395FF01F2C}
+		{6545597B-107E-4B89-8B47-BBF91C6817A0} = {0093F4CA-58B6-44EB-A7DB-A236928C0975}
+		{26048183-F5F8-40AE-96DF-79129E55F5B4} = {0093F4CA-58B6-44EB-A7DB-A236928C0975}
+		{BDA1608D-3185-4B34-B90C-AD2AEA2BB066} = {0093F4CA-58B6-44EB-A7DB-A236928C0975}
+		{A1F8439A-C5C2-471B-A049-647172C3A461} = {0093F4CA-58B6-44EB-A7DB-A236928C0975}
+		{F36AB59E-0D72-43B8-9688-84C0DACA1C82} = {0093F4CA-58B6-44EB-A7DB-A236928C0975}
+		{C52C5631-7266-435C-8B14-9B6D6BD80532} = {ABA2D62C-6074-470A-9911-164F6FDB8F08}
+		{48DCB208-30A6-4966-A4A2-026A77EE9783} = {ABA2D62C-6074-470A-9911-164F6FDB8F08}
+		{C8E2175E-1CE3-4081-B302-4FBA42853B25} = {ABA2D62C-6074-470A-9911-164F6FDB8F08}
+		{2B27F1B1-170D-49F4-86A0-E0C9CFE24E9E} = {ABA2D62C-6074-470A-9911-164F6FDB8F08}
+		{751D400F-6B86-482C-82F1-F998C3C0D852} = {ABA2D62C-6074-470A-9911-164F6FDB8F08}
+		{45130DEE-E2F6-4201-9218-B053084B32E3} = {10FE6123-1B89-4E2B-B40D-91C38DF99F99}
+		{6E8ADF81-616C-4D6F-B154-CAC66F501341} = {10FE6123-1B89-4E2B-B40D-91C38DF99F99}
+		{BB1B4455-30EB-4AC6-879D-0EF590F3F343} = {10FE6123-1B89-4E2B-B40D-91C38DF99F99}
+		{43E459F0-6488-4C86-9E0D-B7BF42908C9E} = {10FE6123-1B89-4E2B-B40D-91C38DF99F99}
+		{85DAC1E8-B6CE-4239-9567-0FB95807B4B5} = {10FE6123-1B89-4E2B-B40D-91C38DF99F99}
+		{05CE019D-9DEB-4B2E-81EF-551F46EE7996} = {339B5DF0-6EF5-4BA7-A436-460DD7D502E9}
+		{5A18D492-C7A8-4494-8395-19BE20C66821} = {339B5DF0-6EF5-4BA7-A436-460DD7D502E9}
+		{FF0C932F-CFBB-475A-B8F1-0396AD00ECE8} = {339B5DF0-6EF5-4BA7-A436-460DD7D502E9}
+		{46804E3D-8188-4883-BD44-7D1DFBC31DCA} = {339B5DF0-6EF5-4BA7-A436-460DD7D502E9}
+		{E4A65DC7-1402-460F-9417-90E7D4B52BFF} = {339B5DF0-6EF5-4BA7-A436-460DD7D502E9}
+		{C8117A34-6910-4297-8FFD-88219B9E0CCA} = {F89F94D0-BBFE-4803-B145-4FA0B1496F41}
+		{CD02EAB9-A5AE-4478-BBB4-1E34F46C428A} = {F89F94D0-BBFE-4803-B145-4FA0B1496F41}
+		{99AC2673-025F-470B-A720-6E3227898104} = {F89F94D0-BBFE-4803-B145-4FA0B1496F41}
+		{82175DB8-919C-4E74-B519-6D909FC77121} = {F89F94D0-BBFE-4803-B145-4FA0B1496F41}
+		{E37519DF-6809-48B4-8452-B8414FDCE70D} = {F89F94D0-BBFE-4803-B145-4FA0B1496F41}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C042A7A8-5772-438B-8DEA-38590E9D586B}
+	EndGlobalSection
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		Case.DimensionOverrides\Case.DimensionOverrides.SharedProject\Case.DimensionOverrides.SharedProject.projitems*{05ce019d-9deb-4b2e-81ef-551f46ee7996}*SharedItemsImports = 4
+		Case.ApplySysOrient\Case.ApplySysOrient.SharedProject\Case.ApplySysOrient.SharedProject.projitems*{0acbcdf9-d03f-47c8-a50b-f2a66581d32b}*SharedItemsImports = 4
+		Case.BasicReporting\Case.BasicReporting.SharedProject\Case.BasicReporting.SharedProject.projitems*{26048183-f5f8-40ae-96df-79129e55f5b4}*SharedItemsImports = 4
+		Case.ChangeReplaceFamTypeNames\Case.ChangeReplaceFamTypeNames.SharedProject\Case.ChangeReplaceFamTypeNames.SharedProject.projitems*{2b27f1b1-170d-49f4-86a0-e0c9cfe24e9e}*SharedItemsImports = 4
+		Case.DeleteViewsAndPurge\Case.DeleteViewsAndPurge.SharedProject\Case.DeleteViewsAndPurge.SharedProject.projitems*{43e459f0-6488-4c86-9e0d-b7bf42908c9e}*SharedItemsImports = 4
+		Case.DeleteViewsAndPurge\Case.DeleteViewsAndPurge.SharedProject\Case.DeleteViewsAndPurge.SharedProject.projitems*{45130dee-e2f6-4201-9218-b053084b32e3}*SharedItemsImports = 13
+		Case.DimensionOverrides\Case.DimensionOverrides.SharedProject\Case.DimensionOverrides.SharedProject.projitems*{46804e3d-8188-4883-bd44-7d1dfbc31dca}*SharedItemsImports = 4
+		Case.ChangeReplaceFamTypeNames\Case.ChangeReplaceFamTypeNames.SharedProject\Case.ChangeReplaceFamTypeNames.SharedProject.projitems*{48dcb208-30a6-4966-a4a2-026a77ee9783}*SharedItemsImports = 4
+		Case.DimensionOverrides\Case.DimensionOverrides.SharedProject\Case.DimensionOverrides.SharedProject.projitems*{5a18d492-c7a8-4494-8395-19be20c66821}*SharedItemsImports = 13
+		Case.BasicReporting\Case.BasicReporting.SharedProject\Case.BasicReporting.SharedProject.projitems*{6545597b-107e-4b89-8b47-bbf91c6817a0}*SharedItemsImports = 4
+		Case.ApplySysOrient\Case.ApplySysOrient.SharedProject\Case.ApplySysOrient.SharedProject.projitems*{695a2d82-dd93-4712-99ca-95978aad6d94}*SharedItemsImports = 13
+		Case.DeleteViewsAndPurge\Case.DeleteViewsAndPurge.SharedProject\Case.DeleteViewsAndPurge.SharedProject.projitems*{6e8adf81-616c-4d6f-b154-cac66f501341}*SharedItemsImports = 4
+		Case.ChangeReplaceFamTypeNames\Case.ChangeReplaceFamTypeNames.SharedProject\Case.ChangeReplaceFamTypeNames.SharedProject.projitems*{751d400f-6b86-482c-82f1-f998c3c0d852}*SharedItemsImports = 4
+		Case.Directionality\Case.Directionality.SharedProject\Case.Directionality.SharedProject.projitems*{82175db8-919c-4e74-b519-6d909fc77121}*SharedItemsImports = 4
+		Case.DeleteViewsAndPurge\Case.DeleteViewsAndPurge.SharedProject\Case.DeleteViewsAndPurge.SharedProject.projitems*{85dac1e8-b6ce-4239-9567-0fb95807b4b5}*SharedItemsImports = 4
+		Case.Directionality\Case.Directionality.SharedProject\Case.Directionality.SharedProject.projitems*{99ac2673-025f-470b-a720-6e3227898104}*SharedItemsImports = 4
+		Case.BasicReporting\Case.BasicReporting.SharedProject\Case.BasicReporting.SharedProject.projitems*{a1f8439a-c5c2-471b-a049-647172c3a461}*SharedItemsImports = 4
+		Case.ApplySysOrient\Case.ApplySysOrient.SharedProject\Case.ApplySysOrient.SharedProject.projitems*{b5ed3506-2771-440b-965a-fcf0e4c8ad93}*SharedItemsImports = 4
+		Case.DeleteViewsAndPurge\Case.DeleteViewsAndPurge.SharedProject\Case.DeleteViewsAndPurge.SharedProject.projitems*{bb1b4455-30eb-4ac6-879d-0ef590f3f343}*SharedItemsImports = 4
+		Case.BasicReporting\Case.BasicReporting.SharedProject\Case.BasicReporting.SharedProject.projitems*{bda1608d-3185-4b34-b90c-ad2aea2bb066}*SharedItemsImports = 4
+		Case.ChangeReplaceFamTypeNames\Case.ChangeReplaceFamTypeNames.SharedProject\Case.ChangeReplaceFamTypeNames.SharedProject.projitems*{c52c5631-7266-435c-8b14-9b6d6bd80532}*SharedItemsImports = 13
+		Case.Directionality\Case.Directionality.SharedProject\Case.Directionality.SharedProject.projitems*{c8117a34-6910-4297-8ffd-88219b9e0cca}*SharedItemsImports = 4
+		Case.ChangeReplaceFamTypeNames\Case.ChangeReplaceFamTypeNames.SharedProject\Case.ChangeReplaceFamTypeNames.SharedProject.projitems*{c8e2175e-1ce3-4081-b302-4fba42853b25}*SharedItemsImports = 4
+		Case.Directionality\Case.Directionality.SharedProject\Case.Directionality.SharedProject.projitems*{cd02eab9-a5ae-4478-bbb4-1e34f46c428a}*SharedItemsImports = 4
+		Case.ApplySysOrient\Case.ApplySysOrient.SharedProject\Case.ApplySysOrient.SharedProject.projitems*{d14eaedd-8681-4a28-ae16-9c5705508fce}*SharedItemsImports = 4
+		Case.ApplySysOrient\Case.ApplySysOrient.SharedProject\Case.ApplySysOrient.SharedProject.projitems*{e3542fc6-dc3a-4537-b1f1-84ea44a4cded}*SharedItemsImports = 4
+		Case.Directionality\Case.Directionality.SharedProject\Case.Directionality.SharedProject.projitems*{e37519df-6809-48b4-8452-b8414fdce70d}*SharedItemsImports = 13
+		Case.DimensionOverrides\Case.DimensionOverrides.SharedProject\Case.DimensionOverrides.SharedProject.projitems*{e4a65dc7-1402-460f-9417-90e7d4b52bff}*SharedItemsImports = 4
+		Case.BasicReporting\Case.BasicReporting.SharedProject\Case.BasicReporting.SharedProject.projitems*{f36ab59e-0d72-43b8-9688-84c0daca1c82}*SharedItemsImports = 13
+		Case.DimensionOverrides\Case.DimensionOverrides.SharedProject\Case.DimensionOverrides.SharedProject.projitems*{ff0c932f-cfbb-475a-b8f1-0396ad00ece8}*SharedItemsImports = 4
+	EndGlobalSection
+EndGlobal

@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{BDA1608D-3185-4B34-B90C-AD2AEA2BB066}</ProjectGuid>
+    <ProjectGuid>{99AC2673-025F-470B-A720-6E3227898104}</ProjectGuid>
     <OutputType>Library</OutputType>
     <RootNamespace>Case.Directionality</RootNamespace>
     <AssemblyName>Case.Directionality</AssemblyName>

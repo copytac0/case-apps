@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{26048183-F5F8-40AE-96DF-79129E55F5B4}</ProjectGuid>
+    <ProjectGuid>{2B27F1B1-170D-49F4-86A0-E0C9CFE24E9E}</ProjectGuid>
     <OutputType>Library</OutputType>
     <RootNamespace>Case.ChangeReplaceFamTypeNames</RootNamespace>
     <AssemblyName>Case.ChangeReplaceFamTypeNames</AssemblyName>
