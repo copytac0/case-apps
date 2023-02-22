@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{A1F8439A-C5C2-471B-A049-647172C3A461}</ProjectGuid>
+    <ProjectGuid>{63002DD5-0C09-4F0D-A63D-40208372544C}</ProjectGuid>
     <OutputType>Library</OutputType>
     <RootNamespace>Case.Subs.Worksets</RootNamespace>
     <AssemblyName>Case.Subs.Worksets</AssemblyName>

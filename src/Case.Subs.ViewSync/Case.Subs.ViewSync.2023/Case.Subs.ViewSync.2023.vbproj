@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{A1F8439A-C5C2-471B-A049-647172C3A461}</ProjectGuid>
+    <ProjectGuid>{F0CA7561-D740-42FA-A4E2-11D27D8F9FD2}</ProjectGuid>
     <OutputType>Library</OutputType>
     <RootNamespace>Case.Subs.ViewSync</RootNamespace>
     <AssemblyName>Case.Subs.ViewSync</AssemblyName>
