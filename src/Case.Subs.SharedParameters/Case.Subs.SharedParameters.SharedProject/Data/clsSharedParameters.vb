@@ -108,12 +108,12 @@ Namespace Data
             End If
 #End If
            #If Revit2022 Or Revit2023
-              If Not DefinitionsByType.ContainsKey(d.GetDataType().ToString) Then
+              If Not DefinitionsByType.ContainsKey(LabelUtils.GetLabelForSpec(d.GetDataType)) Then
                   Dim m_dList As New List(Of Definition)
                   m_dList.Add(d)
-                  DefinitionsByType.Add(d.GetDataType().ToString, m_dList)
+                  DefinitionsByType.Add(LabelUtils.GetLabelForSpec(d.GetDataType), m_dList)
               Else
-                  DefinitionsByType(d.GetDataType().ToString).Add(d)
+                  DefinitionsByType(LabelUtils.GetLabelForSpec(d.GetDataType)).Add(d)
               End If
 #End If
 
